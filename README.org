@@ -1,0 +1,1 @@
+~tikhonov.py~ contains an implementation of the [[https://en.wikipedia.org/wiki/Ridge_regression#Tikhonov_regularization][Tikhonov regularization]] and entropy regularization for image denoising.
